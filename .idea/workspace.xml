@@ -4,17 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8036e6ce-3e57-4eb9-89ea-f767f01695cb" name="Changes" comment="" />
+    <list default="true" id="8036e6ce-3e57-4eb9-89ea-f767f01695cb" name="Changes" comment="created LeapYearChecker.java class">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aditya/LearYearChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aditya/LearYearChecker.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2ECxudQEWFcQ5m7v4LLdeFQPIDO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +48,28 @@
       <option name="presentableId" value="Default" />
       <updated>1662113591507</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1662113632740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662113632740</updated>
+    </task>
+    <task id="LOCAL-00002" summary="created README.md">
+      <created>1662113777380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662113777380</updated>
+    </task>
+    <task id="LOCAL-00003" summary="created LeapYearChecker.java class">
+      <created>1662113835424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662113835424</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -46,5 +82,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="created README.md" />
+    <MESSAGE value="created LeapYearChecker.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created LeapYearChecker.java class" />
   </component>
 </project>
